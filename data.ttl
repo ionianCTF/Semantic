@@ -1,0 +1,39 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rsc: <http://dilab77.ionio.gr/swp/karagiannis/rscource/> .
+@prefix voc: <http://dilab77.ionio.gr/swp/karagiannis/vocab#> .
+
+_:bnode0 a voc:Course .
+rsc:Milonas rdf:type voc:Teacher .
+rsc:DataMining rdf:type voc:CourseName .
+rsc:Galinos rdf:type voc:Class .
+
+_:bnode1 rdf:type voc:Course .
+rsc:Stefanidakis rdf:type voc:Teacher .
+rsc:Semantic rdf:type voc:CourseName .
+
+_:bnode2 rdf:type voc:Course .
+rsc:Vlamos rdf:type voc:Teacher .
+rsc:Bioinformatics rdf:type voc:CourseName .
+
+_:bnode3 rdf:type voc:Course .
+rsc:Education rdf:type voc:CourseName .
+
+_:bnode4 rdf:type voc:Course .
+rsc:Kermanidou rdf:type voc:Teacher .
+rsc:NewMedia-Information-Technology rdf:type voc:CourseName .
+
+_:bnode5 rdf:type voc:Course .
+rsc:Pateli rdf:type voc:Teacher .
+rsc:Commerce rdf:type voc:CourseName .
+
+_:bnode6 rdf:type voc:Course .
+rsc:Oikonomou rdf:type voc:Teacher .
+rsc:Entertaining-Software rdf:type voc:CourseName .
+
+_:bnode7 rdf:type voc:Course .
+rsc:Magkos rdf:type voc:Teacher .
+rsc:Information-Systems-Security rdf:type voc:CourseName .
+
+_:bnode8 rdf:type voc:Course .
+rsc:Avlonitis rdf:type voc:Teacher .
+rsc:Modeling-and-simulation rdf:type voc:CourseName .

@@ -1,0 +1,36 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix voc: <http://dilab77.ionio.gr/swp/karagiannis/vocab#> .
+
+voc:Teacher rdf:type rdfs:Class .
+voc:Teacher rdfs:subClassOf foaf:Person .
+voc:CourseName rdf:type rdfs:Class .
+voc:Class rdf:type rdfs:Class .
+voc:Course rdf:type rdfs:Class .
+
+voc:courseTeached rdf:type rdf:Property .
+voc:courseTeached rdfs:domain voc:Course .
+voc:courseTeached rdfs:range voc:CourseName .
+
+voc:teachedBy rdf:type rdf:Property .
+voc:teachedBy rdfs:domain voc:Course .
+voc:teachedBy rdfs:range voc:Teacher .
+
+voc:inClass rdf:type rdf:Property .
+voc:inClass rdfs:domain voc:Course .
+voc:inClass rdfs:range voc:Class .
+
+voc:timeStart rdf:type rdf:Property .
+voc:timeStart rdf:domain voc:Course .
+voc:timeStart rdf:range xsd:Time .
+
+voc:timeEnds rdf:type rdf:Property .
+voc:timeEnds rdf:domain voc:Course .
+voc:timeEnds rdf:range xsd:Time .
+
+voc:dayTeached rdf:type rdf:Property .
+voc:dayTeached rdf:domain voc:Course .
+voc:dayTeached rdf:range rdfs:Literal .
+
