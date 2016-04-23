@@ -1,0 +1,35 @@
+_:bnode0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/karagiannis/vocab#Course> .
+<http://dilab77.ionio.gr/swp/karagiannis/rscource/Milonas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/karagiannis/vocab#Teacher> .
+<http://dilab77.ionio.gr/swp/karagiannis/rscource/DataMining> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/karagiannis/vocab#CourseName> .
+<http://dilab77.ionio.gr/swp/karagiannis/rscource/Galinos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/karagiannis/vocab#Class> .
+
+_:bnode1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/karagiannis/vocab#Course> .
+<http://dilab77.ionio.gr/swp/karagiannis/rscource/Stefanidakis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/karagiannis/vocab#Teacher> .
+<http://dilab77.ionio.gr/swp/karagiannis/rscource/Semantic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/karagiannis/vocab#CourseName> .
+
+_:bnode2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/karagiannis/vocab#Course> .
+<http://dilab77.ionio.gr/swp/karagiannis/rscource/Vlamos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/karagiannis/vocab#Teacher> .
+<http://dilab77.ionio.gr/swp/karagiannis/rscource/Bioinformatics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/karagiannis/vocab#CourseName> .
+
+_:bnode3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/karagiannis/vocab#Course> .
+<http://dilab77.ionio.gr/swp/karagiannis/rscource/Education> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/karagiannis/vocab#CourseName> .
+
+_:bnode4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/karagiannis/vocab#Course> .
+<http://dilab77.ionio.gr/swp/karagiannis/rscource/Kermanidou> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/karagiannis/vocab#Teacher> .
+<http://dilab77.ionio.gr/swp/karagiannis/rscource/NewMedia-Information-Technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/karagiannis/vocab#CourseName> .
+
+_:bnode5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/karagiannis/vocab#Course> .
+<http://dilab77.ionio.gr/swp/karagiannis/rscource/Pateli> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/karagiannis/vocab#Teacher> .
+<http://dilab77.ionio.gr/swp/karagiannis/rscource/Commerce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/karagiannis/vocab#CourseName> .
+
+_:bnode6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/karagiannis/vocab#Course> .
+<http://dilab77.ionio.gr/swp/karagiannis/rscource/Oikonomou> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/karagiannis/vocab#Teacher> .
+<http://dilab77.ionio.gr/swp/karagiannis/rscource/Entertaining-Software> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/karagiannis/vocab#CourseName> .
+
+_:bnode7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/karagiannis/vocab#Course> .
+<http://dilab77.ionio.gr/swp/karagiannis/rscource/Magkos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/karagiannis/vocab#Teacher> .
+<http://dilab77.ionio.gr/swp/karagiannis/rscource/Information-Systems-Security> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/karagiannis/vocab#CourseName> .
+
+_:bnode8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/karagiannis/vocab#Course> .
+<http://dilab77.ionio.gr/swp/karagiannis/rscource/Avlonitis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/karagiannis/vocab#Teacher> .
+<http://dilab77.ionio.gr/swp/karagiannis/rscource/Modeling-and-simulation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/karagiannis/vocab#CourseName> .
